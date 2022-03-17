@@ -26,7 +26,7 @@ public class Student
 	
 	public String getStatus() {
 		switch (status) {
-			case 1 : return "freshman"; 
+			case 1 : return "New"; 
 			case 2 : return "sophomore"; 
 			case 3 : return "junior"; 
 			case 4 : return "senior";
